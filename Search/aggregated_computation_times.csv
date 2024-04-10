@@ -1,0 +1,9 @@
+file_name,cost_function,computation_time_seconds
+mini-schedule,arrivaltime,0.004532146453857422
+mini-schedule,distance,0.0025931835174560548
+mini-schedule,price,0.005458950996398926
+mini-schedule,stops,0.0035903453826904297
+schedule,arrivaltime,39.983615732192995
+schedule,distance,0.6093827962875367
+schedule,price,31.924885439872742
+schedule,stops,0.3264916896820068
