@@ -58,7 +58,4 @@ We have used Manhatan distance to calculate the base heurestic value for a speci
 
 This project showcases an intelligent agent for the FAUHalma, utilizing heuristic strategies for decision-making. The agent's approach involves evaluating potential moves and selecting the most rewarding ones.
 
----
-
-For any queries or further assistance, please feel free to reach out to our team(badhon.miah@fau.de, aleem.ud.din@fau.de).
 
